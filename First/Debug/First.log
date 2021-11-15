@@ -1,0 +1,14 @@
+﻿  main.cpp
+C:\Users\ritaf\Desktop\Final Project\First\main.cpp(89,14): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\ritaf\Desktop\Final Project\First\main.cpp(110,20): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\ritaf\Desktop\Final Project\First\main.cpp(128,11): warning C4101: 'q': unreferenced local variable
+C:\Users\ritaf\Desktop\Final Project\First\main.cpp(283,9): warning C4101: 'j': unreferenced local variable
+C:\Users\ritaf\Desktop\Final Project\First\main.cpp(283,6): warning C4101: 'i': unreferenced local variable
+C:\Users\ritaf\Desktop\Final Project\First\main.cpp(446,51): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\ritaf\Desktop\Final Project\First\main.cpp(696,9): warning C4101: 'i': unreferenced local variable
+C:\Users\ritaf\Desktop\Final Project\First\main.cpp(696,6): warning C4101: 'j': unreferenced local variable
+C:\Users\ritaf\Desktop\Final Project\First\main.cpp(1071,9): warning C4101: 'i': unreferenced local variable
+C:\Users\ritaf\Desktop\Final Project\First\main.cpp(1071,6): warning C4101: 'j': unreferenced local variable
+C:\Users\ritaf\Desktop\Final Project\First\main.cpp(1143,43): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\ritaf\Desktop\Final Project\First\main.cpp(1150,28): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+  First.vcxproj -> C:\Users\ritaf\Desktop\Final Project\Debug\First.exe
